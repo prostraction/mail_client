@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MessageSend</class>
+ <widget class="QWidget" name="MessageSend">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>875</width>
+    <height>634</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="QTextEdit" name="MessageEdit">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>125</y>
+     <width>871</width>
+     <height>491</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>Arial</family>
+     <pointsize>12</pointsize>
+    </font>
+   </property>
+   <property name="html">
+    <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;title&gt;What the press are saying about FingboxÂ ðŸ’«Â &lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Arial'; font-size:12pt; font-weight:400; font-style:normal;&quot; bgcolor=&quot;#fafafa&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;Watch the latest unboxing videos from our favorite bloggers and YouTubers. Join the Fingbox Giveaway for your chance to win a free box.&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arial';&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#fafafa&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:10; padding-right:10; padding-top:10; padding-bottom:10;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td bgcolor=&quot;#009aee&quot; style=&quot; vertical-align:top; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-top:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:0; padding-bottom:9;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;a name=&quot;bodyCell&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:12px; color:#ffffff;&quot;&gt;U&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:12px; color:#ffffff;&quot;&gt;nboxing Fingbox has never been so exciting. Here's what the press are saying about Fingbox so far.&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:12px; color:#656565;&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=3a02a2cf93&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:12px; text-decoration: underline; color:#ffffff;&quot;&gt;LeÃ© este correo en EspaÃ±ol &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:0; padding-bottom:9;&quot;&gt;
+&lt;p align=&quot;right&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=4d54735083&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/a8d6c732-a400-47c2-922b-015ef20d97b6.png&quot; width=&quot;25&quot; height=&quot;25&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=5720363e7f&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/cd9c95d9-48a1-424b-ba7d-8a973c894a82.png&quot; width=&quot;25&quot; height=&quot;25&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=daa2464d72&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/1efd6426-5c2a-43eb-89e6-39437b45dd5a.png&quot; width=&quot;25&quot; height=&quot;25&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=9ab6b4b433&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/516cc6af-88b7-4e32-8d93-7f5ef022163a.png&quot; width=&quot;25&quot; height=&quot;25&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=041cf4cd17&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/48e60bcc-2d89-4be1-8692-d891ca75e13f.png&quot; width=&quot;25&quot; height=&quot;25&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=40d2b3ce63&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/d0ae2a3c-cb4e-4132-bea7-4de28672bfa1.png&quot; width=&quot;25&quot; height=&quot;25&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:12px; color:#656565;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td bgcolor=&quot;#ffffff&quot; style=&quot; vertical-align:top; padding-top:9; padding-bottom:0;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:18; padding-bottom:18;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/eb867a71-aa74-44de-8d18-e5b71fa24ed7.png&quot; width=&quot;100&quot; height=&quot;131&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;a name=&quot;templateHeader&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:14px; color:#f2f2f2;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#f2f2f2;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#009aee;&quot;&gt;The word about Fingbox is out!&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#f2f2f2;&quot;&gt;&lt;br /&gt;  &lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:14px; color:#f2f2f2;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=8eae3aef54&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; text-decoration: underline; color:#eb1478;&quot;&gt;Fingbox&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#9b9b9b;&quot;&gt; has started making its way into the hands of journalists, bloggers, and YouTubers around the world. &lt;br /&gt;&lt;br /&gt;Our friends over at NotEnoughTech, Demmsec, Newport City Gaming and Technical GupShup (English and Hindi) have made the first unboxing and feature videos about Fingbox. These videos featured below are well worth the watch! &lt;br /&gt;&lt;br /&gt;We've also had &lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=a292331612&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; text-decoration: underline; color:#eb1478;&quot;&gt;AppleTips&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#9b9b9b;&quot;&gt; write a great review (in Dutch).&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:14px; color:#f2f2f2;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td bgcolor=&quot;#ffffff&quot; style=&quot; vertical-align:top; padding-top:0; padding-bottom:0;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-top:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:0; padding-bottom:9;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;a name=&quot;templateBody&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#009aee;&quot;&gt;W&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#009aee;&quot;&gt;atch the Unboxing Videos&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#eb1478;&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-top:0; padding-bottom:0;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=fe943ccc6c&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/406abaab-f6a1-4934-912b-b04202d15821.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=fe943ccc6c&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;right&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-right:9; padding-top:0; padding-bottom:0;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=af3f335b71&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3e0a39e1-5403-4856-bcec-41858db15b7b.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=af3f335b71&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-top:0; padding-bottom:0;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=5b906631e9&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/8dab98c1-e800-4d6a-a89c-9c78c199c20a.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=5b906631e9&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;right&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-right:9; padding-top:0; padding-bottom:0;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=1004b2f26c&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/f32ea1d4-b48c-4947-8a80-7159d288d5d5.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=1004b2f26c&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;564&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-top:0; padding-bottom:0;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=c5f443a0e9&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3dd90cdb-5050-4f34-b5ea-eb9c7894d425.png&quot; width=&quot;564&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=c5f443a0e9&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#2a3644&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:18; padding-bottom:18;&quot;&gt;
+&lt;p dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/7121130c-2026-4030-92c8-e8ffa6768655.png&quot; width=&quot;90&quot; height=&quot;90&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#cd3278;&quot;&gt; &lt;/span&gt;&lt;/p&gt;
+&lt;h1 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:125%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:xx-large; font-weight:600; color:#ffffff;&quot;&gt;Get Fingbox&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:xx-large; font-weight:600; color:#cd3278;&quot;&gt; &lt;/span&gt;&lt;/h1&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#ffffff;&quot;&gt;Fingbox is now available on Amazon (US, UK, EU, and Canada) as well as our WebShop (ships worldwide within 1 business day). &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#cd3278;&quot;&gt;&lt;br /&gt;  &lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%; font-family:'Helvetica'; font-size:16px; color:#cd3278;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; cellspacing=&quot;2&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=2916694439&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/2470e935-56de-42ee-aa95-c6a8b3685835.png&quot; width=&quot;150&quot; height=&quot;53&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; font-weight:600; color:#cd3278;&quot;&gt;     &lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=895a02d286&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/c22a038c-ebeb-49ff-b67c-081b7e6a6aca.png&quot; width=&quot;80&quot; height=&quot;79&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=c550501a15&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; text-decoration: underline; color:#ffffff;&quot;&gt;Amazon&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#cd3278;&quot;&gt;    &lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=8575be7518&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; text-decoration: underline; color:#ffffff;&quot;&gt;Fing Shop&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:0; padding-bottom:0;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=67da9d62e6&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3953a936-846b-44ef-a6e7-5e8f33383124.png&quot; width=&quot;564&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=67da9d62e6&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#009aee&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:18; padding-bottom:18;&quot;&gt;
+&lt;h1 align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:125%;&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/6a31db09-49ab-4322-b4b0-4eaeb5d1c2ee.png&quot; width=&quot;100&quot; height=&quot;81&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:xx-large; font-weight:600; color:#cd3278;&quot;&gt; &lt;/span&gt;&lt;/h1&gt;
+&lt;h1 align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:125%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:xx-large; font-weight:600; color:#ffffff;&quot;&gt;Do you YouTube?&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:xx-large; font-weight:600; color:#cd3278;&quot;&gt; &lt;/span&gt;&lt;/h1&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#ffffff;&quot;&gt;Have your own YouTube Channel, blog or publication and want to partner with Fing? Don't hesitate to drop us a line on marketing@fing.io .  &lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#cd3278;&quot;&gt;&lt;br /&gt;  &lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; width=&quot;160&quot; cellspacing=&quot;0&quot; cellpadding=&quot;10&quot; bgcolor=&quot;#eb1478&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;p align=&quot;center&quot; dir='rtl' style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;a href=&quot;mailto:marketing@fing.io?subject=Review%20Fingbox&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:14px; text-decoration: underline; color:#ffffff;&quot;&gt;Learn More&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:9; padding-bottom:9;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#009aee&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:18; padding-right:18; padding-top:18; padding-bottom:18;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;500&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#009aee&quot;&gt;
+&lt;tr&gt;
+&lt;td width=&quot;50%&quot; style=&quot; vertical-align:top;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;70%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; font-weight:600; color:#ffffff;&quot;&gt;#FINGBOX&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:10px; color:#ffffff;&quot;&gt;Home Network Toolkit&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;
+&lt;td width=&quot;50%&quot; style=&quot; vertical-align:top;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ea1478&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:middle; padding-left:15; padding-right:15; padding-top:15; padding-bottom:15;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=a888a928e6&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; text-decoration: underline; color:#ffffff;&quot;&gt;Order Fingbox&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-top:9; padding-bottom:9;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a name=&quot;templateFooter&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ffffff&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-top:20; padding-bottom:20;&quot;&gt;
+&lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+&lt;tr&gt;
+&lt;td style=&quot; vertical-align:top; padding-left:20; padding-right:20; padding-bottom:5;&quot;&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt;This email was sent to &lt;/span&gt;&lt;a href=&quot;mailto:evendator1@gmail.com&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; text-decoration: underline; color:#404040;&quot;&gt;evendator1@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt; &lt;br /&gt;&lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/about?u=baac45836c30c3f1c19698584&amp;amp;id=e268257bee&amp;amp;e=c261804d89&amp;amp;c=8a48d77726&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; font-style:italic; text-decoration: underline; color:#404040;&quot;&gt;why did I get this?&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt;    &lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/unsubscribe?u=baac45836c30c3f1c19698584&amp;amp;id=e268257bee&amp;amp;e=c261804d89&amp;amp;c=8a48d77726&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; text-decoration: underline; color:#404040;&quot;&gt;unsubscribe from this list&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt;    &lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/profile?u=baac45836c30c3f1c19698584&amp;amp;id=e268257bee&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; text-decoration: underline; color:#404040;&quot;&gt;update subscription preferences&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt; &lt;br /&gt;Fing · Fing HQ Unit 1.24 Grand Union Studio · 332 Ladbroke Grove · London, Lnd W10 5AN · United Kingdom &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;https://fing.us11.list-manage.com/track/open.php?u=baac45836c30c3f1c19698584&amp;amp;id=8a48d77726&amp;amp;e=c261804d89&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+   </property>
+  </widget>
+  <widget class="QFrame" name="frame">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>871</width>
+     <height>125</height>
+    </rect>
+   </property>
+   <property name="autoFillBackground">
+    <bool>true</bool>
+   </property>
+   <property name="frameShape">
+    <enum>QFrame::StyledPanel</enum>
+   </property>
+   <property name="frameShadow">
+    <enum>QFrame::Raised</enum>
+   </property>
+   <widget class="QPushButton" name="SendButton">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>80</y>
+      <width>111</width>
+      <height>31</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Send</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>12</y>
+      <width>61</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>To: </string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="SubjectEdit">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>40</y>
+      <width>761</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="inputMethodHints">
+     <set>Qt::ImhNone</set>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Arial'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;This is a simple test message from my mail client.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="acceptRichText">
+     <bool>false</bool>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>20</x>
+      <y>42</y>
+      <width>61</width>
+      <height>21</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>12</pointsize>
+     </font>
+    </property>
+    <property name="text">
+     <string>Subject:</string>
+    </property>
+   </widget>
+   <widget class="QTextEdit" name="ToEdit">
+    <property name="geometry">
+     <rect>
+      <x>90</x>
+      <y>10</y>
+      <width>761</width>
+      <height>26</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>10</pointsize>
+      <kerning>true</kerning>
+     </font>
+    </property>
+    <property name="inputMethodHints">
+     <set>Qt::ImhNone</set>
+    </property>
+    <property name="html">
+     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+p, li { white-space: pre-wrap; }
+&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Arial'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;evendator1@gmail.com&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+    </property>
+    <property name="acceptRichText">
+     <bool>false</bool>
+    </property>
+   </widget>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
