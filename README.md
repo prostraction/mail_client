@@ -2,6 +2,7 @@
 QT Mail Client
 
 This branch created for rework of this project.
+
 Roadmap:
 
 1. Replace OpenSSL lib with ASIO lib and make it crosspatform. Replace any absolute paths. Move internetconnection sources to directory and make it indepent from QT.
