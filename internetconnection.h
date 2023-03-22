@@ -34,6 +34,10 @@ public:
     int set_mail_unread     (const QString &UID);
     int send_message(const QString &mail_from, const QString &rcpt_to, const QString &message);
     QString load_list_of_mailboxes();
+    /////////////////////////////////////////////
+    void set_login_with_domain(QString l) {login_with_domain = l;}
+    void set_password(QString p) {password = p;}
+    /////////////////////////////////////////////
     static QString try_to_detect_server_ip (const QString &domain, const QString &mode);
 private:
     void SendRequest(const QString &command);
@@ -41,18 +45,24 @@ private:
     QString LoadAnswer();
     int initialize_OpenSSL();
     int initialize_socket();
+    /////////////////////////////////////////////
     BIO *bio;
     SSL *ssl;
     SSL_CTX *ctx;
     char buf[1024];
     unsigned int len = 1023;
+    /////////////////////////////////////////////
     int is_auth = 0;
     QString server;
     enum ModeSpec {imap, smtp};
     int mode;
-    QString UID_validity;   // usused of not working
+    QString UID_validity;
+
+    QString login_with_domain;
+    QString password;
 private slots:
     void mail_updater();
+    int auth();
 signals:
     void mail_updater_trigger();
 };

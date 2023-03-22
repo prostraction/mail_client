@@ -483,6 +483,7 @@ MimeMessage* Parser::ParseMail(const QString &Q)
     logg << "\r\n######################################################\r\n";
     logg << "\r\nFile is: " << Q << "\r\n";
     logg << "\r\n-------------------------------------------\r\n";
+    qDebug() << "HERE";
 
 
     QFile file(Q);
@@ -605,6 +606,7 @@ MimeMessage* Parser::ParseMail(const QString &Q)
             logg << "<-- PART START --->" << "\r\n";
 
             bufer = input.readLine();
+            qDebug() << bufer;
             qDebug() << "::::::::::::::::" << content_type;
             qDebug() << "BOUNDARIES:";
             auto it = boundaries.begin();
@@ -618,6 +620,7 @@ MimeMessage* Parser::ParseMail(const QString &Q)
                 part += bufer;
                 part += "\r\n";
                 bufer = input.readLine();
+                qDebug() << bufer;
             }
 
             /* Parse the part */
@@ -643,8 +646,11 @@ MimeMessage* Parser::ParseMail(const QString &Q)
                 }
             }
             part.clear();
-
             qDebug() << "BUFER:::" << bufer;
+            while (bufer.isEmpty())
+            {
+                bufer = input.readLine();
+            }
             if (bufer.contains(boundaries.last() + "--"))
             {
                 if (bufer.contains(boundary_mail))

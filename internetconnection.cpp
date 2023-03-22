@@ -19,7 +19,6 @@ int InternetConnection::initialize_OpenSSL()
     OpenSSL_add_all_algorithms();
     return 1;
 }
-
 void InternetConnection::setMode(int connection_type)
 {
     switch(connection_type)
@@ -29,7 +28,6 @@ void InternetConnection::setMode(int connection_type)
       default: break;
     }
 }
-
 int InternetConnection::initialize_socket()
 {
     ctx = SSL_CTX_new(SSLv23_client_method());
@@ -43,28 +41,27 @@ int InternetConnection::initialize_socket()
     { return 0; }
     return 1;
 }
-
 InternetConnection::~InternetConnection()
 {
     BIO_free_all(bio);
 }
-
 QString InternetConnection::try_to_detect_server_ip (const QString &domain, const QString &mode)
 {
 /* returns:
      - "no ip" with failure (by Parser::ParseIP())
      - ipv4 address in QString, containing only dec numbers and 4 dots (like "111.111.111.111") */
 #ifdef _WIN32
-    QString command = "nslookup " + mode + "." + domain + " >> temp_of_try_to_detect_ip";
+    QString command = "nslookup " + mode + "." + domain + " >> temp_of_try_to_detect_ip" + mode;
+    qDebug() << command;
     system(command.toStdString().c_str());
-    QString temp = Parser::ParseIP("temp_of_try_to_detect_ip");
+    QString temp = Parser::ParseIP("temp_of_try_to_detect_ip" + mode);
     qDebug() << temp;
-    remove("temp_of_try_to_detect_ip");
+    command = "temp_of_try_to_detect_ip" + mode;
+    //remove(command.toStdString().c_str());
     return temp;
 #endif
 
 }
-
 int InternetConnection::connect(const QString &server_ip, const QString &port)
 {
     server = server_ip + ":" + port;
@@ -99,14 +96,12 @@ int InternetConnection::connect(const QString &server_ip, const QString &port)
     /* 5 seconds without answer */
     return (tries == 500) ? 0 : 1;
 }
-
 int InternetConnection::disconnect()
 {
     is_auth = 0;
     BIO_reset(bio);
     return 1;
 }
-
 int InternetConnection::login (const QString &login, const QString &password)
 {
     if (mode == imap)
@@ -154,7 +149,6 @@ int InternetConnection::is_authorized()
 {
     return is_auth;
 }
-
 int InternetConnection::select_mailbox (const QString &name)
 {
     if (mode == imap)
@@ -165,7 +159,6 @@ int InternetConnection::select_mailbox (const QString &name)
     }
     return 0;
 }
-
 int InternetConnection::load_all_mailbox (const QString &path_file)
 {
     if (mode == imap)
@@ -176,7 +169,6 @@ int InternetConnection::load_all_mailbox (const QString &path_file)
     }
     return 0;
 }
-
 int InternetConnection::load_all_mail (const QString &path_file)
 {
     if (mode == imap)
@@ -187,7 +179,6 @@ int InternetConnection::load_all_mail (const QString &path_file)
     }
     return 0;
 }
-
 int InternetConnection::load_all_mail_headers (const QString &path_file)
 {
     if (mode == imap)
@@ -198,7 +189,6 @@ int InternetConnection::load_all_mail_headers (const QString &path_file)
     }
     return 0;
 }
-
 int InternetConnection::load_mail(const QString &UID, const QString &path_file)
 {
     if (mode == imap)
@@ -209,7 +199,6 @@ int InternetConnection::load_mail(const QString &UID, const QString &path_file)
     }
     return 0;
 }
-
 int InternetConnection::delete_mail(const QString &UID)
 {
     if (mode == imap)
@@ -240,7 +229,6 @@ int InternetConnection::set_mail_unread(const QString &UID)
     }
     return 0;
 }
-
 QString InternetConnection::load_list_of_mailboxes()
 {
     if (mode == imap)
@@ -250,12 +238,10 @@ QString InternetConnection::load_list_of_mailboxes()
     }
     return "";
 }
-
 void InternetConnection::SendRequest(const QString &command)
 {
     BIO_write(bio, command.toStdString().c_str(), int(command.length()));
 }
-
 int InternetConnection::LoadAnswer(const QString &filename)
 {
     std::ofstream reply;
@@ -295,7 +281,6 @@ int InternetConnection::LoadAnswer(const QString &filename)
     reply.close();
     return 0;
 }
-
 QString InternetConnection::LoadAnswer()
 {
     QString reply;
@@ -349,7 +334,6 @@ QString InternetConnection::LoadAnswer()
     }
     return reply;
 }
-
 int InternetConnection::send_message(const QString &mail_from, const QString &rcpt_to, const QString &message)
 {
     if (mode != smtp)
@@ -377,7 +361,6 @@ int InternetConnection::send_message(const QString &mail_from, const QString &rc
     Sleep(100);
     return 1;
 }
-
 void InternetConnection::mail_updater()
 {
     int t = 0;
@@ -404,4 +387,57 @@ void InternetConnection::mail_updater()
         }
     }
 }
+int InternetConnection::auth()
+{
+    QString server_ip;
+    qDebug() << "auth() called";
+    if (mode == imap)
+    {
+        server_ip = try_to_detect_server_ip(login_with_domain.right(login_with_domain.size() - login_with_domain.indexOf("@") - 1), "imap");
+        qDebug() << login_with_domain;
+        qDebug() << login_with_domain.right(login_with_domain.size() - login_with_domain.indexOf("@") - 1);
+        if (server_ip != "no ip")
+        {
+            if (connect(server_ip, "993"))
+            {
+                login(login_with_domain, password);
+            }
+            else
+            {
+                disconnect();
+                return -1;
+            }
+        }
+        else
+        {
+            return -1;
+        }
+    }
+    else if (mode == smtp)
+    {
+        server_ip = try_to_detect_server_ip(login_with_domain.right(login_with_domain.size() - login_with_domain.indexOf("@") - 1), "smtp");
+        if (server_ip != "no ip")
+        {
+            if (connect(server_ip, "465"))
+            {
+                login(login_with_domain, password);
+            }
+            else
+            {
+                disconnect();
+                return -2;
+            }
+        }
+        else
+        {
+            return -2;
+        }
+    }
 
+    else
+    {
+        qDebug() << "mode is not specified.";
+        return 0;
+    }
+    return 1;
+}
