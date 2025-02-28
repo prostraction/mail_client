@@ -30,11 +30,14 @@
    </property>
    <property name="html">
     <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;title&gt;What the press are saying about FingboxÂ ðŸ’«Â &lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;title&gt;What the press are saying about FingboxÂ ðŸ’«Â &lt;/title&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Arial'; font-size:12pt; font-weight:400; font-style:normal;&quot; bgcolor=&quot;#fafafa&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;Watch the latest unboxing videos from our favorite bloggers and YouTubers. Join the Fingbox Giveaway for your chance to win a free box.&lt;/span&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arial';&quot;&gt;&lt;br /&gt;&lt;/p&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;Watch the latest unboxing videos from our favorite bloggers and YouTubers. Join the Fingbox Giveaway for your chance to win a free box.&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#fafafa&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:10; padding-right:10; padding-top:10; padding-bottom:10;&quot;&gt;
@@ -81,27 +84,27 @@ p, li { white-space: pre-wrap; }
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:9; padding-top:0; padding-bottom:0;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=fe943ccc6c&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/406abaab-f6a1-4934-912b-b04202d15821.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=fe943ccc6c&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=fe943ccc6c&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/406abaab-f6a1-4934-912b-b04202d15821.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=fe943ccc6c&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;right&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-right:9; padding-top:0; padding-bottom:0;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=af3f335b71&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3e0a39e1-5403-4856-bcec-41858db15b7b.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=af3f335b71&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=af3f335b71&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3e0a39e1-5403-4856-bcec-41858db15b7b.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=af3f335b71&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:9; padding-bottom:9;&quot;&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:9; padding-top:0; padding-bottom:0;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=5b906631e9&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/8dab98c1-e800-4d6a-a89c-9c78c199c20a.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=5b906631e9&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=5b906631e9&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/8dab98c1-e800-4d6a-a89c-9c78c199c20a.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=5b906631e9&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;right&quot; width=&quot;273&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-right:9; padding-top:0; padding-bottom:0;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=1004b2f26c&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/f32ea1d4-b48c-4947-8a80-7159d288d5d5.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=1004b2f26c&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=1004b2f26c&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/f32ea1d4-b48c-4947-8a80-7159d288d5d5.png&quot; width=&quot;264&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=1004b2f26c&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:9; padding-bottom:9;&quot;&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;564&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:9; padding-top:0; padding-bottom:0;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=c5f443a0e9&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3dd90cdb-5050-4f34-b5ea-eb9c7894d425.png&quot; width=&quot;564&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=c5f443a0e9&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=c5f443a0e9&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3dd90cdb-5050-4f34-b5ea-eb9c7894d425.png&quot; width=&quot;564&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=c5f443a0e9&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top;&quot;&gt;
@@ -133,7 +136,7 @@ p, li { white-space: pre-wrap; }
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:9; padding-right:9; padding-top:0; padding-bottom:0;&quot;&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=67da9d62e6&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3953a936-846b-44ef-a6e7-5e8f33383124.png&quot; width=&quot;564&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=67da9d62e6&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Arial'; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=67da9d62e6&amp;amp;e=c261804d89&quot;&gt;&lt;img src=&quot;https://gallery.mailchimp.com/baac45836c30c3f1c19698584/images/3953a936-846b-44ef-a6e7-5e8f33383124.png&quot; width=&quot;564&quot; style=&quot;vertical-align: top;&quot; /&gt;&lt;/a&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=67da9d62e6&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; text-decoration: underline; color:#007af4;&quot;&gt; &lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top;&quot;&gt;
@@ -176,7 +179,7 @@ p, li { white-space: pre-wrap; }
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:100%;&quot;&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/track/click?u=baac45836c30c3f1c19698584&amp;amp;id=a888a928e6&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica'; font-size:16px; text-decoration: underline; color:#ffffff;&quot;&gt;Order Fingbox&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-top:9; padding-bottom:9;&quot;&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a name=&quot;templateFooter&quot;&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;&lt;br /&gt;&lt;/span&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a name=&quot;templateFooter&quot;&gt;&lt;/a&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;table border=&quot;0&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px;&quot; align=&quot;center&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot; bgcolor=&quot;#ffffff&quot;&gt;
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-top:20; padding-bottom:20;&quot;&gt;
@@ -184,7 +187,7 @@ p, li { white-space: pre-wrap; }
 &lt;tr&gt;
 &lt;td style=&quot; vertical-align:top; padding-left:20; padding-right:20; padding-bottom:5;&quot;&gt;
 &lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; line-height:150%;&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt;This email was sent to &lt;/span&gt;&lt;a href=&quot;mailto:evendator1@gmail.com&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; text-decoration: underline; color:#404040;&quot;&gt;evendator1@gmail.com&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt; &lt;br /&gt;&lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/about?u=baac45836c30c3f1c19698584&amp;amp;id=e268257bee&amp;amp;e=c261804d89&amp;amp;c=8a48d77726&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; font-style:italic; text-decoration: underline; color:#404040;&quot;&gt;why did I get this?&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt;    &lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/unsubscribe?u=baac45836c30c3f1c19698584&amp;amp;id=e268257bee&amp;amp;e=c261804d89&amp;amp;c=8a48d77726&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; text-decoration: underline; color:#404040;&quot;&gt;unsubscribe from this list&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt;    &lt;/span&gt;&lt;a href=&quot;https://fing.us11.list-manage.com/profile?u=baac45836c30c3f1c19698584&amp;amp;id=e268257bee&amp;amp;e=c261804d89&quot;&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; text-decoration: underline; color:#404040;&quot;&gt;update subscription preferences&lt;/span&gt;&lt;/a&gt;&lt;span style=&quot; font-family:'Helvetica','Arial','sans-serif'; font-size:11px; color:#606060;&quot;&gt; &lt;br /&gt;Fing · Fing HQ Unit 1.24 Grand Union Studio · 332 Ladbroke Grove · London, Lnd W10 5AN · United Kingdom &lt;br /&gt;&lt;br /&gt;&lt;/span&gt;&lt;/p&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;https://fing.us11.list-manage.com/track/open.php?u=baac45836c30c3f1c19698584&amp;amp;id=8a48d77726&amp;amp;e=c261804d89&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt; &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;img src=&quot;https://fing.us11.list-manage.com/track/open.php?u=baac45836c30c3f1c19698584&amp;amp;id=8a48d77726&amp;amp;e=c261804d89&quot; width=&quot;1&quot; height=&quot;1&quot; /&gt; &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
    </property>
   </widget>
   <widget class="QFrame" name="frame">
@@ -200,10 +203,10 @@ p, li { white-space: pre-wrap; }
     <bool>true</bool>
    </property>
    <property name="frameShape">
-    <enum>QFrame::StyledPanel</enum>
+    <enum>QFrame::Shape::StyledPanel</enum>
    </property>
    <property name="frameShadow">
-    <enum>QFrame::Raised</enum>
+    <enum>QFrame::Shadow::Raised</enum>
    </property>
    <widget class="QPushButton" name="SendButton">
     <property name="geometry">
@@ -259,14 +262,17 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
     <property name="inputMethodHints">
-     <set>Qt::ImhNone</set>
+     <set>Qt::InputMethodHint::ImhNone</set>
     </property>
     <property name="html">
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Arial'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;This is a simple test message from my mail client.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;This is a simple test message from my mail client.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="acceptRichText">
      <bool>false</bool>
@@ -308,14 +314,22 @@ p, li { white-space: pre-wrap; }
      </font>
     </property>
     <property name="inputMethodHints">
-     <set>Qt::ImhNone</set>
+     <set>Qt::InputMethodHint::ImhNone</set>
+    </property>
+    <property name="markdown">
+     <string>[client@mail.com](mailto:client@mail.com)
+
+</string>
     </property>
     <property name="html">
      <string>&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;
-&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
+&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;meta charset=&quot;utf-8&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;
 p, li { white-space: pre-wrap; }
+hr { height: 1px; border-width: 0; }
+li.unchecked::marker { content: &quot;\2610&quot;; }
+li.checked::marker { content: &quot;\2612&quot;; }
 &lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'Arial'; font-size:10pt; font-weight:400; font-style:normal;&quot;&gt;
-&lt;p style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial';&quot;&gt;evendator1@gmail.com&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
+&lt;p style=&quot; margin-top:6px; margin-bottom:6px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;a href=&quot;mailto:client@mail.com&quot;&gt;&lt;span style=&quot; color:#007af4;&quot;&gt;client@mail.com&lt;/span&gt;&lt;/a&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</string>
     </property>
     <property name="acceptRichText">
      <bool>false</bool>
