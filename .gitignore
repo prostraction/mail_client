@@ -1,3 +1,7 @@
 *.user
 build
 openssl
+CMakeFiles
+CMakeCache.txt
+CMakeLists.txt.pro.user
+CMakeLists.txt.user

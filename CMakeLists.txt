@@ -5,9 +5,8 @@ project(MailView)
 set(CMAKE_CXX_STANDARD 17)
 
 find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets)
-
-include_directories(C:/OpenSSL-Win32/include/)
-link_directories(C:/OpenSSL-Win32/lib/VC/)
+#include_directories(C:/OpenSSL-Win32/include/)
+#link_directories(C:/OpenSSL-Win32/lib/VC/)
 
 set(SOURCES
     account.cpp
@@ -56,13 +55,26 @@ qt_add_executable(MailView
 # OpenSSL
 #####################################################################################################################
 
+    set(OPENSSL_ROOT_DIR "E:/projects/_c_cpp/mail_client/vcpkg/installed/x64-windows")
+    set(OPENSSL_INCLUDE_DIR "${OPENSSL_ROOT_DIR}/include")
+    set(OPENSSL_CRYPTO_LIBRARY "${OPENSSL_ROOT_DIR}/lib/VC/crt/x64_amd64/ssleay32.lib")
+    set(OPENSSL_SSL_LIBRARY "${OPENSSL_ROOT_DIR}/lib/VC/crt/x64_amd64/libeay32.lib")
 
   find_package(OpenSSL REQUIRED)
-  target_link_libraries(main PRIVATE OpenSSL::SSL)
-  target_link_libraries(main PRIVATE OpenSSL::Crypto)
+  #target_link_libraries(MailView PRIVATE OpenSSL::SSL)
+  #target_link_libraries(MailView PRIVATE OpenSSL::Crypto)
 
 
 #####################################################################################################################
+
+target_link_libraries(MailView PRIVATE
+    Qt6::Widgets
+    Qt6::Core
+    Qt6::Gui
+    OpenSSL::SSL
+    OpenSSL::Crypto
+)
+
 
 add_definitions(-DQT_DEPRECATED_WARNINGS)
 install(TARGETS MailView DESTINATION build)
