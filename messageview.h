@@ -7,7 +7,7 @@
 #include "parser.h"
 #include "directory.h"
 #include "mimemessage.h"
-#include <QWebEngineView>
+//#include <QWebEngineView>
 
 
 namespace Ui {
@@ -27,7 +27,7 @@ private slots:
 private:
     Ui::MessageView *ui;
     InternetConnection *IC;
-    QWebEngineView *webview;
+    //QWebEngineView *webview;
     MimeMessage* M;
     QUrl file;
     int number;

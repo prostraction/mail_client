@@ -10,6 +10,7 @@ find_package(Qt6 REQUIRED COMPONENTS Core Gui Widgets)
 
 set(SOURCES
     account.cpp
+    autorisationrequest.cpp
     decoder.cpp
     directory.cpp
     internetconnection.cpp
@@ -21,11 +22,12 @@ set(SOURCES
     mime_message.cpp
     mimemessage.cpp
     parser.cpp
-    #treelistview.cpp
+    treelistview.cpp
 )
 
 set(HEADERS
     account.h
+    autorisationrequest.h
     decoder.h
     directory.h
     internetconnection.h
@@ -36,7 +38,7 @@ set(HEADERS
     mime_message.h
     mimemessage.h
     parser.h
-    #treelistview.h
+    treelistview.h
 )
 
 set(FORMS
